@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "201010271359",
+    "firebase_url": "https://cosmo-160809.firebaseio.com",
+    "project_id": "cosmo-160809",
+    "storage_bucket": "cosmo-160809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201010271359:android:0dc1e89a2c350e7d",
+        "android_client_info": {
+          "package_name": "com.wasu.cosmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201010271359-17ns847rfjl3e4ddbaour2456pns781n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVwpHYPSt_IRbPiIkhQoojPcMC8Oi5IaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
